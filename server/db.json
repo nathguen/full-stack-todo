@@ -1,0 +1,49 @@
+{
+  "todos": [
+    {
+      "id": "abc-1",
+      "name": "Clean Garage",
+      "assignees": [
+        "user-1",
+        "user-3"
+      ],
+      "dueDate": "2020-02-07T07:00:00.000Z",
+      "isCompleted": true
+    },
+    {
+      "name": "Swim",
+      "dueDate": "2020-02-05T07:09:56.963Z",
+      "isCompleted": true,
+      "id": "1cc203b9-2576-47e5-a6cd-09cb852e6aac",
+      "assignees": []
+    },
+    {
+      "name": "Go Snowboarding",
+      "dueDate": "2020-03-03T07:00:00.000Z",
+      "isCompleted": false,
+      "id": "c73996e0-2862-4291-b044-0b05824278e5",
+      "assignees": []
+    },
+    {
+      "name": "Play Halo",
+      "dueDate": "2020-02-06T07:00:00.000Z",
+      "isCompleted": false,
+      "id": "09dcadbc-b6b1-4e80-b75e-ddabdbd0208d",
+      "assignees": []
+    }
+  ],
+  "users": [
+    {
+      "id": "user-1",
+      "name": "Sam Smith"
+    },
+    {
+      "id": "user-2",
+      "name": "Jenna Williams"
+    },
+    {
+      "id": "user-3",
+      "name": "Nate Drake"
+    }
+  ]
+}

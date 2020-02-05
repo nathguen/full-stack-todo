@@ -1,0 +1,13 @@
+{
+    "private": true,
+    "scripts": {
+        "build": "yarn --cwd client build",
+        "start": "yarn --cwd client start",
+        "test": "yarn --cwd client test"
+    },
+    "workspaces": [
+        "server",
+        "client"
+    ],
+    "license": "MIT"
+}

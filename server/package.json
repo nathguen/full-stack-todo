@@ -1,0 +1,13 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Rest APIs for Todos",
+  "scripts": {
+    "start": "json-server --watch db.json --port=3010"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.15.1"
+  }
+}
